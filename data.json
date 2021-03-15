@@ -4,9 +4,11 @@
   "batters": {
     "batter": [
       { "id": "1", "type": "Regular", "rating": 5 },
-{ "id": "7", "type": "Chocolate", "rating": 8 },
       { "id": "3", "type": "Blueberry", "rating": 5 },
-      { "id": "4", "type": "Devil's Food", "rating": 6.2 }
+      { "id": "4", "type": "Devil's Food", "rating": 6.2 },
+      { "id": "7", "type": "Dark Chocolate", "rating": 8 },
+      { "id": "3", "type": "Blueberry", "rating": 5 },
+      { "id": "9", "type": "Milk Chocolate", "rating" : 7} 
     ]
   },
   "topping": [
